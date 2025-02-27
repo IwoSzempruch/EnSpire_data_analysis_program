@@ -1,0 +1,327 @@
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas A,0,0,De=1st Ex=Top Em=Top,1,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,410,527,443,559,560,640,,,,,,,
+B,811,731,715,683,591,682,,,,,,,
+C,941,1029,877,925,912,812,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas A,0,0,De=1st Ex=Top Em=Top,2,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,526,602,543,625,652,489,,,,,,,
+B,964,799,909,991,952,795,,,,,,,
+C,1195,1318,1203,1184,1092,1292,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas A,0,0,De=1st Ex=Top Em=Top,3,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,464,596,526,565,495,585,,,,,,,
+B,928,934,813,1006,858,846,,,,,,,
+C,1253,1232,1264,1274,1166,1300,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas A,0,0,De=1st Ex=Top Em=Top,4,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,464,489,657,542,589,556,,,,,,,
+B,817,883,870,871,853,853,,,,,,,
+C,1422,1228,1349,1217,1277,1240,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas B,0,0,De=1st Ex=Btm Em=N/A,1,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42837,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.1630,0.1610,0.1680,0.1690,0.1750,0.1780,,,,,,,
+B,0.3360,0.3420,0.3480,0.3450,0.3530,0.3610,,,,,,,
+C,0.3030,0.3130,0.3210,0.3270,0.3280,0.3280,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas B,0,0,De=1st Ex=Btm Em=N/A,2,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42837,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.0740,0.0730,0.0730,0.0820,0.0850,0.0770,,,,,,,
+B,0.2720,0.2760,0.2780,0.2810,0.2840,0.2870,,,,,,,
+C,0.2330,0.2330,0.2410,0.2440,0.2460,0.2430,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas B,0,0,De=1st Ex=Btm Em=N/A,3,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42837,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.0770,0.0800,0.0820,0.0820,0.0800,0.0780,,,,,,,
+B,0.2990,0.3070,0.3110,0.3060,0.3060,0.3100,,,,,,,
+C,0.2550,0.2540,0.2690,0.2720,0.2700,0.2660,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,36.9,37,21.2,21.3,Meas B,0,0,De=1st Ex=Btm Em=N/A,4,2/13/2025 5:18:20 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42837,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.0810,0.0830,0.0860,0.0880,0.0870,0.0860,,,,,,,
+B,0.3270,0.3360,0.3410,0.3360,0.3350,0.3350,,,,,,,
+C,0.2760,0.2800,0.2980,0.3020,0.2960,0.2850,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+
+Basic assay information 
+Assay ID: ,,,,11568
+Assay Started: ,,,,2/13/2025 4:50:56 PM
+Assay Finished: ,,,,2/13/2025 5:18:31 PM
+Assay Exported: ,,,,2/13/2025 5:19:32 PM
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100218
+Protocol Name: ,,,,mScarlet
+Serial#: ,,,,23000566
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,mScarlet
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,, 
+
+Plate type:
+Name of the plate type,,,,96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,BL  ,BL  ,BL  ,BL  ,BL  ,BL  ,    ,    ,    ,    ,    ,    
+B,UNK1,UNK2,UNK3,UNK4,UNK5,UNK6,    ,    ,    ,    ,    ,    
+C,UNK1,UNK2,UNK3,UNK4,UNK5,UNK6,    ,    ,    ,    ,    ,    
+D,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    
+E,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    
+F,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    
+G,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    
+H,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    
+
+ BL - Blank
+ UNK - Unknown
+
+Calculations:
+No calculations.
+
+Auto export parameters:
+Export format,,,,Plate5
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,<DefaultDataFolder>\<Date>\<ProtocolName>_<AssayID>.txt
+Exported data,,,,MeasA:Result MeasB:Result
+
+Operations:
+Plate 1
+  Temperature control
+    Measurement chamber temperature,,,,37 °C
+    Condensation prevention for sealed plates,,,,Yes
+    Upper heater,,,,2 °C warmer than lower heater
+    Fast start,,,,Yes
+    Fast cooling,,,,No
+    Set temperature and continue immediately,,,,No
+    Set temperature adjustment off,,,,No
+    First assay/plate repeat affected,,,,1
+  Repeated operations
+    Measured,,,,By plate
+    Repeats,,,,4
+    Start each repeat after,,,,0 s
+    Measurement
+      Meas,,,,A
+      Tech,,,,Fluorescence
+      Repeated,,,,Range
+        First repeat,,,,1
+        Last repeat,,,,4
+        Step,,,,1
+    Measurement
+      Meas,,,,B
+      Tech,,,,Absorbance
+      Repeated,,,,Range
+        First repeat,,,,1
+        Last repeat,,,,4
+        Step,,,,1
+    Shake
+      Duration,,,,360 s
+      Speed,,,,60
+      Diameter,,,,3 mm
+      Shake mode,,,,Linear
+      Plate location,,,,Inside
+      Repeated,,,,Range
+        First repeat,,,,1
+        Last repeat,,,,4
+        Step,,,,1
+
+Measurements:
+Meas ,,,,A
+Exc. filter,,,,N/A
+Using of excitation filter,,,,Top
+Excitation wavelength,,,,569 nm
+Emission wavelength,,,,594 nm
+Measurement height,,,,9.5 mm
+Number of flashes,,,,500
+Number of flashes integrated,,,,500
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Emission light,,,,100%
+Reference AD gain,,,,2
+Reference signal,,,,14844357
+Last edited,,,,1/28/2025 4:24:00 PM
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Meas ,,,,B
+Exc. filter,,,,N/A
+Excitation wavelength,,,,600 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,10
+Number of flashes integrated,,,,10
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Reference AD gain,,,,1
+Reference signal,,,,9916
+Last edited,,,,1/28/2025 4:23:48 PM
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,1/1/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,1/1/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,1/1/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000566
+Nickname,,,,EnSpire
+
+
+
+
+
+
+Exported with EnSpire Workstation version 4.10.3005.1440

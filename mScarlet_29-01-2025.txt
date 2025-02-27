@@ -1,0 +1,1957 @@
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,1,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,686,636,568,468,520,,,,,,,,
+B,515,593,672,552,605,,,,,,,,
+C,548,576,600,497,583,,,,,,,,
+D,528,576,635,584,560,,,,,,,,
+E,513,578,591,473,568,,,,,,,,
+F,524,548,569,518,496,,,,,,,,
+G,461,500,580,495,518,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,2,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,738,618,658,541,600,,,,,,,,
+B,641,572,671,573,561,,,,,,,,
+C,528,658,526,575,575,,,,,,,,
+D,576,568,485,558,498,,,,,,,,
+E,575,588,609,553,528,,,,,,,,
+F,587,572,559,525,506,,,,,,,,
+G,620,515,546,513,646,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,3,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,886,841,878,548,630,,,,,,,,
+B,643,695,756,517,544,,,,,,,,
+C,605,613,524,549,592,,,,,,,,
+D,591,597,699,509,408,,,,,,,,
+E,589,606,541,505,516,,,,,,,,
+F,590,516,564,500,434,,,,,,,,
+G,529,474,599,495,489,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,4,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,902,945,894,612,631,,,,,,,,
+B,885,902,817,639,584,,,,,,,,
+C,729,737,593,517,599,,,,,,,,
+D,708,681,719,620,505,,,,,,,,
+E,726,764,730,519,590,,,,,,,,
+F,576,596,528,622,459,,,,,,,,
+G,566,410,517,541,548,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,5,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,931,1049,981,750,698,,,,,,,,
+B,1020,1105,1005,606,549,,,,,,,,
+C,788,757,746,535,568,,,,,,,,
+D,756,771,803,550,537,,,,,,,,
+E,822,837,712,575,591,,,,,,,,
+F,595,563,664,588,506,,,,,,,,
+G,532,516,565,403,550,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,6,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,981,948,981,719,684,,,,,,,,
+B,1289,1119,1189,715,610,,,,,,,,
+C,879,790,736,605,544,,,,,,,,
+D,802,850,867,608,559,,,,,,,,
+E,864,757,829,585,671,,,,,,,,
+F,693,719,639,564,566,,,,,,,,
+G,570,556,547,532,504,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,7,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1193,1112,1072,793,766,,,,,,,,
+B,1166,1340,1254,726,753,,,,,,,,
+C,763,825,792,640,664,,,,,,,,
+D,863,875,878,647,639,,,,,,,,
+E,847,920,919,607,629,,,,,,,,
+F,681,639,534,687,532,,,,,,,,
+G,580,515,600,593,541,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,8,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1156,1126,1096,849,762,,,,,,,,
+B,1360,1319,1262,930,922,,,,,,,,
+C,809,765,779,654,529,,,,,,,,
+D,867,925,907,664,650,,,,,,,,
+E,918,943,988,622,691,,,,,,,,
+F,698,766,801,596,613,,,,,,,,
+G,611,505,441,523,502,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,9,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1312,1352,1280,964,838,,,,,,,,
+B,1505,1486,1459,929,931,,,,,,,,
+C,781,789,805,567,667,,,,,,,,
+D,945,827,998,624,725,,,,,,,,
+E,1028,934,1094,680,686,,,,,,,,
+F,694,676,769,635,624,,,,,,,,
+G,441,469,664,494,514,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,10,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1339,1354,1225,1008,845,,,,,,,,
+B,1628,1589,1568,1020,1029,,,,,,,,
+C,872,910,924,714,649,,,,,,,,
+D,857,1048,956,733,728,,,,,,,,
+E,1100,1080,1081,879,860,,,,,,,,
+F,717,720,722,630,616,,,,,,,,
+G,551,471,511,486,535,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,11,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1440,1350,1404,946,883,,,,,,,,
+B,1724,1769,1640,1091,1075,,,,,,,,
+C,958,968,921,672,669,,,,,,,,
+D,1052,1015,1045,764,764,,,,,,,,
+E,1146,1145,1116,893,879,,,,,,,,
+F,743,799,755,572,682,,,,,,,,
+G,557,449,466,501,613,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,12,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1401,1398,1401,1010,941,,,,,,,,
+B,1799,1946,1792,1104,1099,,,,,,,,
+C,958,1011,958,723,656,,,,,,,,
+D,1041,1063,1108,721,780,,,,,,,,
+E,1078,1229,1157,818,1030,,,,,,,,
+F,744,781,822,633,604,,,,,,,,
+G,475,545,587,521,494,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,13,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1503,1560,1498,1029,1059,,,,,,,,
+B,2097,2010,1958,1198,1133,,,,,,,,
+C,997,906,1130,663,657,,,,,,,,
+D,1188,1181,1281,696,783,,,,,,,,
+E,1330,1358,1281,992,1055,,,,,,,,
+F,843,860,877,675,718,,,,,,,,
+G,526,565,633,506,558,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,14,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1543,1682,1594,1105,1108,,,,,,,,
+B,2116,2096,1997,1172,1337,,,,,,,,
+C,1041,1118,1100,724,710,,,,,,,,
+D,1206,1440,1189,787,883,,,,,,,,
+E,1344,1368,1274,1004,1085,,,,,,,,
+F,933,937,789,729,606,,,,,,,,
+G,506,625,525,543,517,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,15,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1647,1716,1673,1201,1187,,,,,,,,
+B,2246,2195,2155,1316,1393,,,,,,,,
+C,1153,1213,1093,831,914,,,,,,,,
+D,1325,1337,1382,932,852,,,,,,,,
+E,1409,1360,1392,954,1048,,,,,,,,
+F,869,1019,955,624,694,,,,,,,,
+G,616,557,581,562,522,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,16,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1823,1661,1851,1282,1300,,,,,,,,
+B,2337,2372,2229,1453,1379,,,,,,,,
+C,1165,1127,1240,767,794,,,,,,,,
+D,1478,1382,1358,849,767,,,,,,,,
+E,1556,1639,1576,932,1048,,,,,,,,
+F,1033,1031,1063,708,695,,,,,,,,
+G,584,552,523,463,605,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,17,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1830,1699,1839,1306,1364,,,,,,,,
+B,2422,2348,2398,1601,1641,,,,,,,,
+C,1239,1237,1292,785,906,,,,,,,,
+D,1519,1600,1422,826,885,,,,,,,,
+E,1685,1725,1751,1079,1058,,,,,,,,
+F,1085,1062,1050,712,695,,,,,,,,
+G,504,572,623,429,486,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,18,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1962,1823,1920,1406,1397,,,,,,,,
+B,2400,2425,2299,1627,1625,,,,,,,,
+C,1266,1154,1298,920,915,,,,,,,,
+D,1533,1583,1470,999,1026,,,,,,,,
+E,1869,1929,1851,1110,1047,,,,,,,,
+F,1157,1281,1119,775,724,,,,,,,,
+G,550,617,565,556,499,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,19,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1894,1878,1827,1396,1425,,,,,,,,
+B,2619,2534,2392,1772,1801,,,,,,,,
+C,1274,1280,1371,1003,990,,,,,,,,
+D,1701,1657,1625,980,1053,,,,,,,,
+E,1949,1967,2049,1103,1194,,,,,,,,
+F,1254,1321,1322,795,837,,,,,,,,
+G,563,561,424,477,544,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,20,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1966,1847,1955,1627,1495,,,,,,,,
+B,2596,2542,2505,1891,2073,,,,,,,,
+C,1266,1222,1363,1118,1093,,,,,,,,
+D,1593,1655,1610,1062,1117,,,,,,,,
+E,2081,2086,2139,1271,1226,,,,,,,,
+F,1350,1353,1312,796,791,,,,,,,,
+G,522,481,505,582,642,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,21,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1917,1913,1946,1582,1583,,,,,,,,
+B,2660,2612,2530,2155,2123,,,,,,,,
+C,1326,1468,1441,1091,1139,,,,,,,,
+D,1770,1762,1650,1230,1116,,,,,,,,
+E,2146,2225,2233,1403,1456,,,,,,,,
+F,1429,1442,1288,779,802,,,,,,,,
+G,519,503,603,446,554,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,22,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1934,1997,2129,1695,1625,,,,,,,,
+B,2626,2686,2442,2175,2144,,,,,,,,
+C,1412,1365,1433,1106,1149,,,,,,,,
+D,1704,1675,1698,1219,1166,,,,,,,,
+E,2285,2305,2321,1566,1538,,,,,,,,
+F,1482,1419,1315,1044,980,,,,,,,,
+G,496,464,569,461,482,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,23,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1989,1910,2055,1678,1687,,,,,,,,
+B,2694,2526,2418,2229,2289,,,,,,,,
+C,1475,1483,1381,1158,1233,,,,,,,,
+D,1779,1699,1623,1295,1170,,,,,,,,
+E,2232,2400,2319,1615,1757,,,,,,,,
+F,1477,1533,1537,916,970,,,,,,,,
+G,541,488,459,606,559,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,24,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2018,2025,1988,1771,1707,,,,,,,,
+B,2609,2505,2561,2187,2304,,,,,,,,
+C,1470,1423,1371,1205,1216,,,,,,,,
+D,1764,1809,1699,1413,1283,,,,,,,,
+E,2246,2446,2316,1703,1815,,,,,,,,
+F,1642,1605,1577,1077,1055,,,,,,,,
+G,432,461,517,508,523,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,25,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1964,2082,2038,1726,1763,,,,,,,,
+B,2816,2618,2405,2280,2228,,,,,,,,
+C,1413,1457,1514,1298,1252,,,,,,,,
+D,1700,1753,1757,1290,1231,,,,,,,,
+E,2300,2343,2442,1817,1850,,,,,,,,
+F,1642,1650,1516,1059,1035,,,,,,,,
+G,509,527,476,450,529,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,26,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2006,2020,2107,1868,1924,,,,,,,,
+B,2723,2567,2412,2208,2382,,,,,,,,
+C,1475,1422,1529,1213,1271,,,,,,,,
+D,1903,1771,1695,1264,1345,,,,,,,,
+E,2339,2422,2322,1849,1915,,,,,,,,
+F,1634,1641,1542,1124,1196,,,,,,,,
+G,563,610,560,410,597,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,27,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1919,2030,2079,1760,1815,,,,,,,,
+B,2720,2654,2474,2249,2350,,,,,,,,
+C,1462,1528,1479,1320,1264,,,,,,,,
+D,1773,1653,1735,1330,1482,,,,,,,,
+E,2386,2422,2432,1941,1896,,,,,,,,
+F,1649,1607,1627,1229,1046,,,,,,,,
+G,541,513,567,490,576,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,28,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1834,2106,2080,1843,1872,,,,,,,,
+B,2663,2501,2542,2286,2370,,,,,,,,
+C,1492,1493,1470,1283,1302,,,,,,,,
+D,1727,1726,1683,1447,1379,,,,,,,,
+E,2316,2527,2410,1923,2026,,,,,,,,
+F,1699,1776,1576,1158,1153,,,,,,,,
+G,554,572,490,575,467,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,29,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1967,2074,2063,1854,2018,,,,,,,,
+B,2687,2632,2539,2169,2354,,,,,,,,
+C,1487,1602,1490,1274,1281,,,,,,,,
+D,1832,1650,1628,1304,1358,,,,,,,,
+E,2293,2414,2494,1990,2108,,,,,,,,
+F,1723,1660,1554,1188,1207,,,,,,,,
+G,538,539,572,474,472,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,30,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1856,2032,1990,1943,1937,,,,,,,,
+B,2632,2510,2415,2281,2276,,,,,,,,
+C,1555,1536,1560,1345,1449,,,,,,,,
+D,1813,1655,1670,1318,1293,,,,,,,,
+E,2245,2465,2557,1924,2121,,,,,,,,
+F,1661,1679,1596,1296,1155,,,,,,,,
+G,487,532,537,556,543,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,31,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1857,2089,2060,1882,2065,,,,,,,,
+B,2651,2570,2556,2175,2323,,,,,,,,
+C,1484,1603,1514,1303,1400,,,,,,,,
+D,1795,1697,1705,1340,1390,,,,,,,,
+E,2307,2434,2487,2036,2100,,,,,,,,
+F,1776,1703,1676,1159,1128,,,,,,,,
+G,683,474,523,552,552,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,32,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1895,1986,2135,1922,2130,,,,,,,,
+B,2654,2558,2483,2273,2400,,,,,,,,
+C,1548,1516,1562,1322,1390,,,,,,,,
+D,1714,1635,1588,1301,1269,,,,,,,,
+E,2306,2445,2526,1946,2160,,,,,,,,
+F,1814,1714,1582,1224,1172,,,,,,,,
+G,486,541,433,566,402,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,33,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1799,2077,2069,2004,2091,,,,,,,,
+B,2611,2573,2433,2168,2222,,,,,,,,
+C,1653,1477,1520,1345,1500,,,,,,,,
+D,1700,1659,1708,1316,1413,,,,,,,,
+E,2249,2520,2491,2090,2112,,,,,,,,
+F,1682,1655,1658,1171,1311,,,,,,,,
+G,603,605,515,553,544,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,34,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1863,2041,2027,1849,2164,,,,,,,,
+B,2669,2557,2475,2402,2366,,,,,,,,
+C,1619,1539,1497,1325,1490,,,,,,,,
+D,1746,1723,1678,1336,1440,,,,,,,,
+E,2407,2585,2544,2015,2258,,,,,,,,
+F,1683,1714,1710,1187,1289,,,,,,,,
+G,571,529,486,539,534,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,35,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1941,2037,1995,2007,2148,,,,,,,,
+B,2628,2559,2390,2323,2287,,,,,,,,
+C,1610,1443,1505,1330,1381,,,,,,,,
+D,1686,1692,1665,1312,1401,,,,,,,,
+E,2305,2494,2551,2113,2198,,,,,,,,
+F,1673,1744,1634,1140,1116,,,,,,,,
+G,531,615,461,562,466,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,36,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1925,2038,2017,2001,2228,,,,,,,,
+B,2674,2418,2454,2288,2274,,,,,,,,
+C,1547,1555,1532,1390,1441,,,,,,,,
+D,1758,1688,1685,1381,1322,,,,,,,,
+E,2292,2565,2499,2078,2221,,,,,,,,
+F,1810,1730,1741,1223,1212,,,,,,,,
+G,554,566,478,435,598,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,37,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1983,2029,2034,2070,2317,,,,,,,,
+B,2624,2522,2472,2142,2304,,,,,,,,
+C,1588,1533,1519,1352,1505,,,,,,,,
+D,1637,1721,1604,1353,1372,,,,,,,,
+E,2367,2552,2491,1971,2159,,,,,,,,
+F,1725,1739,1735,1279,1275,,,,,,,,
+G,510,576,573,488,442,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,38,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2030,2007,1906,1972,2323,,,,,,,,
+B,2575,2638,2465,2116,2339,,,,,,,,
+C,1548,1576,1718,1498,1438,,,,,,,,
+D,1652,1615,1609,1277,1330,,,,,,,,
+E,2291,2524,2546,2006,2116,,,,,,,,
+F,1770,1662,1681,1251,1365,,,,,,,,
+G,563,421,590,502,569,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,39,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2081,2037,2012,2078,2287,,,,,,,,
+B,2641,2600,2499,2252,2351,,,,,,,,
+C,1523,1535,1545,1358,1410,,,,,,,,
+D,1749,1713,1563,1351,1436,,,,,,,,
+E,2166,2492,2520,1969,2188,,,,,,,,
+F,1754,1714,1624,1223,1349,,,,,,,,
+G,540,578,505,526,458,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,40,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1944,1986,2012,2097,2354,,,,,,,,
+B,2579,2625,2518,2294,2384,,,,,,,,
+C,1528,1466,1523,1391,1505,,,,,,,,
+D,1772,1651,1684,1333,1362,,,,,,,,
+E,2318,2468,2554,2037,2213,,,,,,,,
+F,1768,1747,1669,1308,1245,,,,,,,,
+G,508,483,470,578,508,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,41,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,1995,2107,1916,2165,2419,,,,,,,,
+B,2658,2554,2488,2271,2322,,,,,,,,
+C,1535,1413,1675,1466,1533,,,,,,,,
+D,1758,1655,1573,1403,1415,,,,,,,,
+E,2296,2619,2522,1947,2145,,,,,,,,
+F,1731,1703,1693,1345,1377,,,,,,,,
+G,472,479,594,516,639,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,42,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2109,2088,2037,2077,2490,,,,,,,,
+B,2701,2595,2554,2257,2270,,,,,,,,
+C,1490,1468,1506,1411,1547,,,,,,,,
+D,1684,1669,1605,1321,1418,,,,,,,,
+E,2354,2605,2602,2089,2142,,,,,,,,
+F,1803,1816,1652,1234,1412,,,,,,,,
+G,557,574,606,517,553,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,43,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2071,2117,1992,2155,2421,,,,,,,,
+B,2637,2654,2503,2195,2355,,,,,,,,
+C,1445,1523,1611,1401,1548,,,,,,,,
+D,1776,1632,1576,1327,1463,,,,,,,,
+E,2312,2534,2631,2027,2144,,,,,,,,
+F,1827,1738,1743,1332,1351,,,,,,,,
+G,618,576,641,487,466,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,44,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2185,2057,2062,2220,2498,,,,,,,,
+B,2647,2473,2467,2190,2270,,,,,,,,
+C,1561,1610,1573,1470,1571,,,,,,,,
+D,1716,1693,1566,1387,1370,,,,,,,,
+E,2343,2472,2439,2007,2251,,,,,,,,
+F,1868,1731,1689,1309,1354,,,,,,,,
+G,517,489,519,474,522,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,45,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2047,2028,1985,2230,2568,,,,,,,,
+B,2647,2548,2482,2383,2383,,,,,,,,
+C,1534,1544,1578,1329,1666,,,,,,,,
+D,1794,1722,1585,1340,1404,,,,,,,,
+E,2358,2394,2540,2030,2266,,,,,,,,
+F,1829,1714,1668,1296,1394,,,,,,,,
+G,615,488,500,517,538,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,46,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2188,2075,2038,2209,2573,,,,,,,,
+B,2707,2608,2490,2291,2233,,,,,,,,
+C,1443,1569,1606,1440,1560,,,,,,,,
+D,1697,1685,1694,1290,1383,,,,,,,,
+E,2346,2509,2570,2068,2267,,,,,,,,
+F,1866,1810,1816,1160,1390,,,,,,,,
+G,488,586,566,530,520,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,47,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,2131,2138,2072,2258,2591,,,,,,,,
+B,2670,2448,2471,2231,2344,,,,,,,,
+C,1578,1579,1502,1434,1550,,,,,,,,
+D,1772,1691,1561,1382,1480,,,,,,,,
+E,2400,2561,2529,2062,2293,,,,,,,,
+F,1766,1823,1752,1341,1453,,,,,,,,
+G,475,564,601,484,487,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas A,0,0,De=1st Ex=Top Em=Top,1,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+
+Results for Meas A -  (RFU)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,,,,,,,,,,,,,
+B,,,,,,,,,,,,,
+C,,,,,,,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,1,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.1330,0.1340,0.1380,0.0830,0.0840,,,,,,,,
+B,0.0940,0.0930,0.0930,0.0790,0.0770,,,,,,,,
+C,0.1060,0.1030,0.1060,0.0790,0.0780,,,,,,,,
+D,0.0910,0.0910,0.0910,0.0810,0.0770,,,,,,,,
+E,0.0930,0.0910,0.0940,0.0780,0.0750,,,,,,,,
+F,0.0950,0.0920,0.0890,0.0800,0.0810,,,,,,,,
+G,0.0850,0.0790,0.0810,0.0940,0.0870,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,2,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.1660,0.1660,0.1700,0.0890,0.0910,,,,,,,,
+B,0.1060,0.1020,0.1040,0.0830,0.0800,,,,,,,,
+C,0.1220,0.1170,0.1200,0.0840,0.0830,,,,,,,,
+D,0.1010,0.0990,0.1000,0.0840,0.0790,,,,,,,,
+E,0.1020,0.0980,0.1010,0.0810,0.0760,,,,,,,,
+F,0.1030,0.0990,0.0970,0.0830,0.0850,,,,,,,,
+G,0.0860,0.0800,0.0820,0.0960,0.0870,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,3,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.2190,0.2200,0.2230,0.0990,0.1040,,,,,,,,
+B,0.1170,0.1130,0.1150,0.0840,0.0830,,,,,,,,
+C,0.1440,0.1400,0.1430,0.0890,0.0880,,,,,,,,
+D,0.1090,0.1020,0.1070,0.0860,0.0810,,,,,,,,
+E,0.1100,0.1060,0.1090,0.0820,0.0790,,,,,,,,
+F,0.1100,0.1060,0.1020,0.0850,0.0860,,,,,,,,
+G,0.0870,0.0820,0.0820,0.0960,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,4,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.2880,0.2880,0.2930,0.1110,0.1140,,,,,,,,
+B,0.1350,0.1300,0.1340,0.0880,0.0860,,,,,,,,
+C,0.1880,0.1790,0.1830,0.0980,0.0980,,,,,,,,
+D,0.1230,0.1150,0.1210,0.0890,0.0850,,,,,,,,
+E,0.1230,0.1170,0.1220,0.0860,0.0820,,,,,,,,
+F,0.1190,0.1170,0.1130,0.0880,0.0910,,,,,,,,
+G,0.0880,0.0810,0.0820,0.0950,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,5,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.3560,0.3590,0.3610,0.1320,0.1360,,,,,,,,
+B,0.1660,0.1720,0.1650,0.0960,0.0940,,,,,,,,
+C,0.2510,0.2550,0.2480,0.1100,0.1100,,,,,,,,
+D,0.1430,0.1320,0.1460,0.0950,0.0920,,,,,,,,
+E,0.1410,0.1360,0.1410,0.0930,0.0900,,,,,,,,
+F,0.1350,0.1360,0.1300,0.0960,0.0970,,,,,,,,
+G,0.0860,0.0820,0.0830,0.0960,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,6,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.4290,0.4280,0.4280,0.1650,0.1680,,,,,,,,
+B,0.2110,0.2080,0.2130,0.1080,0.1070,,,,,,,,
+C,0.3320,0.3310,0.3230,0.1270,0.1260,,,,,,,,
+D,0.1660,0.1570,0.1740,0.1030,0.1000,,,,,,,,
+E,0.1690,0.1650,0.1690,0.1020,0.0990,,,,,,,,
+F,0.1630,0.1580,0.1570,0.1040,0.1050,,,,,,,,
+G,0.0870,0.0830,0.0830,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,7,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5060,0.4880,0.4870,0.2110,0.2140,,,,,,,,
+B,0.2760,0.2690,0.2780,0.1180,0.1170,,,,,,,,
+C,0.4100,0.4060,0.3900,0.1580,0.1540,,,,,,,,
+D,0.2030,0.1900,0.2070,0.1110,0.1090,,,,,,,,
+E,0.2080,0.2020,0.2080,0.1130,0.1100,,,,,,,,
+F,0.2010,0.1980,0.1970,0.1140,0.1150,,,,,,,,
+G,0.0880,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,8,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5510,0.5350,0.5300,0.2740,0.2770,,,,,,,,
+B,0.3520,0.3520,0.3460,0.1380,0.1400,,,,,,,,
+C,0.4710,0.4740,0.4530,0.1990,0.1920,,,,,,,,
+D,0.2400,0.2270,0.2400,0.1250,0.1210,,,,,,,,
+E,0.2550,0.2460,0.2550,0.1320,0.1260,,,,,,,,
+F,0.2470,0.2400,0.2450,0.1290,0.1300,,,,,,,,
+G,0.0880,0.0830,0.0830,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,9,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5880,0.5720,0.5650,0.3400,0.3410,,,,,,,,
+B,0.4120,0.4070,0.4020,0.1690,0.1720,,,,,,,,
+C,0.5170,0.5240,0.5040,0.2570,0.2480,,,,,,,,
+D,0.2860,0.2730,0.2890,0.1430,0.1400,,,,,,,,
+E,0.3240,0.3090,0.3190,0.1570,0.1530,,,,,,,,
+F,0.3020,0.2950,0.3030,0.1530,0.1510,,,,,,,,
+G,0.0880,0.0820,0.0830,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,10,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6080,0.6060,0.5960,0.4040,0.4050,,,,,,,,
+B,0.4520,0.4440,0.4460,0.2210,0.2230,,,,,,,,
+C,0.5500,0.5550,0.5440,0.3270,0.3150,,,,,,,,
+D,0.3350,0.3250,0.3420,0.1670,0.1650,,,,,,,,
+E,0.3940,0.3660,0.3830,0.1900,0.1820,,,,,,,,
+F,0.3620,0.3500,0.3620,0.1790,0.1750,,,,,,,,
+G,0.0880,0.0830,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,11,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5930,0.6170,0.6190,0.4670,0.4620,,,,,,,,
+B,0.4760,0.4780,0.4790,0.2910,0.2920,,,,,,,,
+C,0.5830,0.5900,0.5830,0.3930,0.3770,,,,,,,,
+D,0.3820,0.3710,0.3870,0.1950,0.1910,,,,,,,,
+E,0.4290,0.4160,0.4320,0.2310,0.2200,,,,,,,,
+F,0.4230,0.4010,0.4140,0.2150,0.2070,,,,,,,,
+G,0.0880,0.0820,0.0830,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,12,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5890,0.6110,0.6100,0.5130,0.5050,,,,,,,,
+B,0.4930,0.4980,0.4950,0.3570,0.3550,,,,,,,,
+C,0.6120,0.6180,0.6080,0.4560,0.4450,,,,,,,,
+D,0.4210,0.4080,0.4180,0.2270,0.2220,,,,,,,,
+E,0.4620,0.4600,0.4670,0.2720,0.2620,,,,,,,,
+F,0.4590,0.4520,0.4590,0.2500,0.2430,,,,,,,,
+G,0.0860,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,13,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5810,0.6120,0.6090,0.5430,0.5380,,,,,,,,
+B,0.5150,0.5040,0.5140,0.4010,0.4020,,,,,,,,
+C,0.6380,0.6440,0.6320,0.5090,0.5010,,,,,,,,
+D,0.4500,0.4460,0.4580,0.2610,0.2580,,,,,,,,
+E,0.4860,0.5060,0.5050,0.3200,0.3100,,,,,,,,
+F,0.5030,0.4950,0.4950,0.2840,0.2800,,,,,,,,
+G,0.0880,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,14,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5740,0.6070,0.6040,0.5660,0.5660,,,,,,,,
+B,0.5240,0.5290,0.5280,0.4390,0.4410,,,,,,,,
+C,0.6620,0.6720,0.6430,0.5430,0.5380,,,,,,,,
+D,0.4780,0.4680,0.4750,0.3130,0.3120,,,,,,,,
+E,0.4980,0.5280,0.5190,0.3630,0.3530,,,,,,,,
+F,0.5310,0.5300,0.5320,0.3310,0.3250,,,,,,,,
+G,0.0880,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,15,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5720,0.6060,0.6040,0.5840,0.5930,,,,,,,,
+B,0.5280,0.5290,0.5380,0.4680,0.4730,,,,,,,,
+C,0.6530,0.6810,0.6430,0.5680,0.5570,,,,,,,,
+D,0.4890,0.4820,0.4890,0.3530,0.3550,,,,,,,,
+E,0.5160,0.5420,0.5340,0.3970,0.3870,,,,,,,,
+F,0.5320,0.5400,0.5440,0.3710,0.3710,,,,,,,,
+G,0.0880,0.0820,0.0840,0.0980,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,16,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5670,0.6060,0.6040,0.5950,0.6060,,,,,,,,
+B,0.5310,0.5430,0.5340,0.4950,0.4980,,,,,,,,
+C,0.6450,0.6800,0.6440,0.5890,0.5720,,,,,,,,
+D,0.4990,0.4870,0.4930,0.3880,0.3880,,,,,,,,
+E,0.5200,0.5490,0.5450,0.4180,0.4190,,,,,,,,
+F,0.5500,0.5540,0.5570,0.3920,0.3990,,,,,,,,
+G,0.0890,0.0830,0.0840,0.0980,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,17,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5690,0.6160,0.6080,0.5950,0.6050,,,,,,,,
+B,0.5340,0.5340,0.5320,0.5160,0.5140,,,,,,,,
+C,0.6450,0.6750,0.6470,0.6020,0.5820,,,,,,,,
+D,0.5000,0.4850,0.4890,0.4210,0.4190,,,,,,,,
+E,0.5180,0.5560,0.5490,0.4380,0.4440,,,,,,,,
+F,0.5590,0.5680,0.5730,0.4200,0.4320,,,,,,,,
+G,0.0880,0.0830,0.0840,0.0980,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,18,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5750,0.6260,0.6160,0.5940,0.6070,,,,,,,,
+B,0.5320,0.5410,0.5390,0.5270,0.5250,,,,,,,,
+C,0.6520,0.6850,0.6580,0.6030,0.5840,,,,,,,,
+D,0.4950,0.4860,0.4950,0.4460,0.4420,,,,,,,,
+E,0.5170,0.5630,0.5590,0.4550,0.4620,,,,,,,,
+F,0.5500,0.5760,0.5800,0.4490,0.4560,,,,,,,,
+G,0.0870,0.0840,0.0840,0.0960,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,19,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5840,0.6360,0.6240,0.5970,0.6090,,,,,,,,
+B,0.5300,0.5370,0.5330,0.5300,0.5310,,,,,,,,
+C,0.6620,0.6950,0.6650,0.5990,0.5820,,,,,,,,
+D,0.4950,0.4900,0.4930,0.4670,0.4640,,,,,,,,
+E,0.5200,0.5720,0.5650,0.4760,0.4840,,,,,,,,
+F,0.5630,0.5920,0.5930,0.4760,0.4860,,,,,,,,
+G,0.0880,0.0830,0.0850,0.0970,0.0900,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,20,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.5880,0.6390,0.6360,0.6040,0.6230,,,,,,,,
+B,0.5290,0.5390,0.5290,0.5230,0.5310,,,,,,,,
+C,0.6720,0.7040,0.6740,0.5960,0.5840,,,,,,,,
+D,0.4960,0.4940,0.4920,0.4840,0.4780,,,,,,,,
+E,0.5260,0.5870,0.5830,0.4820,0.4980,,,,,,,,
+F,0.5800,0.6080,0.6060,0.4870,0.5080,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,21,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6010,0.6440,0.6500,0.6180,0.6370,,,,,,,,
+B,0.5300,0.5340,0.5300,0.5190,0.5250,,,,,,,,
+C,0.6820,0.7070,0.6820,0.6030,0.5890,,,,,,,,
+D,0.4950,0.4910,0.4940,0.4900,0.4810,,,,,,,,
+E,0.5420,0.6150,0.6070,0.4900,0.5130,,,,,,,,
+F,0.5900,0.6260,0.6230,0.4940,0.5220,,,,,,,,
+G,0.0860,0.0830,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,22,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6190,0.6510,0.6690,0.6340,0.6480,,,,,,,,
+B,0.5300,0.5360,0.5280,0.5180,0.5230,,,,,,,,
+C,0.6910,0.7130,0.6870,0.6070,0.6050,,,,,,,,
+D,0.4950,0.4920,0.4900,0.4870,0.4760,,,,,,,,
+E,0.5590,0.6370,0.6250,0.4920,0.5240,,,,,,,,
+F,0.6240,0.6460,0.6400,0.4910,0.5240,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,23,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6200,0.6700,0.6920,0.6510,0.6620,,,,,,,,
+B,0.5310,0.5380,0.5330,0.5170,0.5220,,,,,,,,
+C,0.6980,0.7210,0.6960,0.6180,0.6260,,,,,,,,
+D,0.4970,0.4980,0.4980,0.4890,0.4720,,,,,,,,
+E,0.5690,0.6570,0.6460,0.4970,0.5380,,,,,,,,
+F,0.6630,0.6740,0.6650,0.4890,0.5230,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,24,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6360,0.6910,0.7130,0.6640,0.6790,,,,,,,,
+B,0.5320,0.5240,0.5310,0.5190,0.5270,,,,,,,,
+C,0.7140,0.7250,0.6990,0.6270,0.6400,,,,,,,,
+D,0.5040,0.4980,0.5040,0.4870,0.4740,,,,,,,,
+E,0.5830,0.6690,0.6520,0.5040,0.5510,,,,,,,,
+F,0.7220,0.6990,0.6950,0.4860,0.5260,,,,,,,,
+G,0.0880,0.0840,0.0850,0.0970,0.0900,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,25,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6390,0.7110,0.7350,0.6780,0.6960,,,,,,,,
+B,0.5350,0.5420,0.5370,0.5200,0.5290,,,,,,,,
+C,0.7340,0.7390,0.7100,0.6430,0.6540,,,,,,,,
+D,0.5130,0.5040,0.5070,0.4860,0.4760,,,,,,,,
+E,0.5890,0.6850,0.6630,0.5120,0.5630,,,,,,,,
+F,0.7340,0.7090,0.7100,0.4850,0.5300,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,26,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6400,0.7320,0.7550,0.6840,0.7130,,,,,,,,
+B,0.5350,0.5410,0.5370,0.5200,0.5320,,,,,,,,
+C,0.7460,0.7530,0.7230,0.6560,0.6590,,,,,,,,
+D,0.5180,0.5160,0.5140,0.4880,0.4810,,,,,,,,
+E,0.5890,0.6940,0.6780,0.5270,0.5790,,,,,,,,
+F,0.7370,0.7140,0.7170,0.4850,0.5390,,,,,,,,
+G,0.0870,0.0830,0.0850,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,27,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6400,0.7460,0.7640,0.6900,0.7390,,,,,,,,
+B,0.5400,0.5400,0.5400,0.5210,0.5350,,,,,,,,
+C,0.7620,0.7580,0.7310,0.6650,0.6640,,,,,,,,
+D,0.5210,0.5130,0.5160,0.4890,0.4850,,,,,,,,
+E,0.5980,0.7010,0.6770,0.5480,0.6070,,,,,,,,
+F,0.7460,0.7220,0.7240,0.4880,0.5500,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,28,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6260,0.7590,0.7560,0.7070,0.7580,,,,,,,,
+B,0.5400,0.5460,0.5430,0.5230,0.5400,,,,,,,,
+C,0.7700,0.7680,0.7420,0.6770,0.6760,,,,,,,,
+D,0.5220,0.5160,0.5170,0.4910,0.4890,,,,,,,,
+E,0.6000,0.7070,0.6840,0.5700,0.6280,,,,,,,,
+F,0.7560,0.7290,0.7280,0.4930,0.5670,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,29,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6350,0.7510,0.7570,0.7090,0.7710,,,,,,,,
+B,0.5430,0.5450,0.5370,0.5250,0.5420,,,,,,,,
+C,0.7760,0.7750,0.7490,0.6980,0.6990,,,,,,,,
+D,0.5220,0.5230,0.5240,0.4940,0.4940,,,,,,,,
+E,0.6000,0.7140,0.6920,0.5850,0.6510,,,,,,,,
+F,0.7640,0.7330,0.7320,0.5140,0.5900,,,,,,,,
+G,0.0870,0.0830,0.0850,0.0960,0.0900,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,30,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6340,0.7530,0.7580,0.7140,0.7830,,,,,,,,
+B,0.5440,0.5490,0.5450,0.5250,0.5420,,,,,,,,
+C,0.7790,0.7790,0.7540,0.7090,0.7180,,,,,,,,
+D,0.5240,0.5200,0.5260,0.4960,0.4980,,,,,,,,
+E,0.6060,0.7200,0.7000,0.5980,0.6710,,,,,,,,
+F,0.7680,0.7370,0.7330,0.5350,0.6080,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,31,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6290,0.7540,0.7590,0.7260,0.7940,,,,,,,,
+B,0.5460,0.5510,0.5470,0.5270,0.5420,,,,,,,,
+C,0.7820,0.7780,0.7580,0.7220,0.7340,,,,,,,,
+D,0.5260,0.5220,0.5280,0.5000,0.5010,,,,,,,,
+E,0.6080,0.7240,0.7050,0.6080,0.6830,,,,,,,,
+F,0.7700,0.7430,0.7410,0.5560,0.6240,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,32,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6280,0.7540,0.7560,0.7370,0.8040,,,,,,,,
+B,0.5480,0.5510,0.5470,0.5290,0.5420,,,,,,,,
+C,0.7810,0.7770,0.7650,0.7350,0.7440,,,,,,,,
+D,0.5280,0.5190,0.5320,0.5050,0.5060,,,,,,,,
+E,0.6100,0.7250,0.7090,0.6150,0.6870,,,,,,,,
+F,0.7630,0.7530,0.7510,0.5750,0.6380,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,33,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6370,0.7540,0.7530,0.7550,0.8140,,,,,,,,
+B,0.5500,0.5460,0.5400,0.5300,0.5420,,,,,,,,
+C,0.7800,0.7780,0.7660,0.7450,0.7560,,,,,,,,
+D,0.5300,0.5210,0.5280,0.5040,0.5110,,,,,,,,
+E,0.6050,0.7280,0.7110,0.6230,0.6890,,,,,,,,
+F,0.7560,0.7550,0.7520,0.5900,0.6500,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,34,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6460,0.7510,0.7510,0.7630,0.8250,,,,,,,,
+B,0.5500,0.5530,0.5440,0.5330,0.5420,,,,,,,,
+C,0.7780,0.7830,0.7710,0.7400,0.7640,,,,,,,,
+D,0.5310,0.5270,0.5300,0.5090,0.5180,,,,,,,,
+E,0.6020,0.7290,0.7150,0.6310,0.6940,,,,,,,,
+F,0.7500,0.7630,0.7560,0.6040,0.6610,,,,,,,,
+G,0.0880,0.0830,0.0850,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,35,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6550,0.7460,0.7440,0.7720,0.8320,,,,,,,,
+B,0.5520,0.5480,0.5420,0.5340,0.5430,,,,,,,,
+C,0.7770,0.7830,0.7720,0.7430,0.7740,,,,,,,,
+D,0.5330,0.5250,0.5270,0.5130,0.5260,,,,,,,,
+E,0.6020,0.7250,0.7120,0.6370,0.6970,,,,,,,,
+F,0.7650,0.7660,0.7640,0.6170,0.6720,,,,,,,,
+G,0.0860,0.0820,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,36,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6560,0.7420,0.7380,0.7860,0.8400,,,,,,,,
+B,0.5530,0.5470,0.5450,0.5360,0.5430,,,,,,,,
+C,0.7780,0.7810,0.7730,0.7440,0.7830,,,,,,,,
+D,0.5340,0.5250,0.5250,0.5150,0.5300,,,,,,,,
+E,0.6000,0.7200,0.7100,0.6420,0.7020,,,,,,,,
+F,0.7720,0.7740,0.7690,0.6250,0.6800,,,,,,,,
+G,0.0880,0.0840,0.0850,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,37,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6750,0.7370,0.7350,0.7980,0.8450,,,,,,,,
+B,0.5530,0.5530,0.5470,0.5370,0.5440,,,,,,,,
+C,0.7770,0.7830,0.7730,0.7490,0.7840,,,,,,,,
+D,0.5330,0.5260,0.5270,0.5250,0.5350,,,,,,,,
+E,0.6000,0.7120,0.7100,0.6450,0.7070,,,,,,,,
+F,0.7740,0.7710,0.7700,0.6340,0.6880,,,,,,,,
+G,0.0870,0.0830,0.0840,0.0980,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,38,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.6910,0.7370,0.7340,0.8020,0.8500,,,,,,,,
+B,0.5560,0.5530,0.5480,0.5390,0.5440,,,,,,,,
+C,0.7770,0.7840,0.7730,0.7530,0.7910,,,,,,,,
+D,0.5340,0.5220,0.5240,0.5240,0.5370,,,,,,,,
+E,0.6020,0.7060,0.7050,0.6480,0.7120,,,,,,,,
+F,0.7760,0.7690,0.7670,0.6420,0.6940,,,,,,,,
+G,0.0860,0.0830,0.0840,0.0980,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,39,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7050,0.7370,0.7320,0.7890,0.8580,,,,,,,,
+B,0.5550,0.5600,0.5510,0.5390,0.5430,,,,,,,,
+C,0.7740,0.7870,0.7770,0.7620,0.7940,,,,,,,,
+D,0.5320,0.5280,0.5260,0.5280,0.5420,,,,,,,,
+E,0.6020,0.7040,0.7040,0.6490,0.7150,,,,,,,,
+F,0.7770,0.7720,0.7660,0.6500,0.7010,,,,,,,,
+G,0.0870,0.0820,0.0850,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,40,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7160,0.7390,0.7320,0.7890,0.8630,,,,,,,,
+B,0.5550,0.5590,0.5470,0.5420,0.5440,,,,,,,,
+C,0.7700,0.7860,0.7770,0.7600,0.7900,,,,,,,,
+D,0.5330,0.5210,0.5240,0.5290,0.5430,,,,,,,,
+E,0.6020,0.6980,0.6970,0.6540,0.7180,,,,,,,,
+F,0.7830,0.7690,0.7620,0.6570,0.7070,,,,,,,,
+G,0.0870,0.0820,0.0830,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,41,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7220,0.7360,0.7320,0.7890,0.8660,,,,,,,,
+B,0.5560,0.5530,0.5440,0.5410,0.5460,,,,,,,,
+C,0.7630,0.7840,0.7770,0.7530,0.7910,,,,,,,,
+D,0.5310,0.5220,0.5230,0.5290,0.5440,,,,,,,,
+E,0.6050,0.6960,0.6940,0.6550,0.7180,,,,,,,,
+F,0.7860,0.7700,0.7620,0.6620,0.7130,,,,,,,,
+G,0.0860,0.0830,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,42,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7270,0.7350,0.7310,0.7930,0.8690,,,,,,,,
+B,0.5560,0.5630,0.5540,0.5430,0.5460,,,,,,,,
+C,0.7550,0.7890,0.7790,0.7560,0.7940,,,,,,,,
+D,0.5300,0.5240,0.5290,0.5310,0.5450,,,,,,,,
+E,0.6080,0.6920,0.6910,0.6570,0.7180,,,,,,,,
+F,0.7890,0.7690,0.7660,0.6680,0.7180,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0980,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,43,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7300,0.7330,0.7300,0.8100,0.8700,,,,,,,,
+B,0.5550,0.5550,0.5480,0.5420,0.5460,,,,,,,,
+C,0.7490,0.7870,0.7710,0.7510,0.7930,,,,,,,,
+D,0.5270,0.5240,0.5280,0.5320,0.5460,,,,,,,,
+E,0.6120,0.6890,0.6880,0.6570,0.7180,,,,,,,,
+F,0.7880,0.7680,0.7680,0.6710,0.7200,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,44,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7290,0.7320,0.7270,0.8150,0.8750,,,,,,,,
+B,0.5570,0.5580,0.5450,0.5430,0.5460,,,,,,,,
+C,0.7440,0.7870,0.7710,0.7490,0.7940,,,,,,,,
+D,0.5250,0.5250,0.5270,0.5330,0.5480,,,,,,,,
+E,0.6130,0.6880,0.6890,0.6590,0.7170,,,,,,,,
+F,0.7820,0.7690,0.7660,0.6760,0.7220,,,,,,,,
+G,0.0850,0.0840,0.0840,0.0970,0.0880,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,45,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7280,0.7310,0.7280,0.8160,0.8770,,,,,,,,
+B,0.5570,0.5500,0.5460,0.5430,0.5450,,,,,,,,
+C,0.7430,0.7840,0.7680,0.7440,0.7970,,,,,,,,
+D,0.5250,0.5200,0.5250,0.5340,0.5490,,,,,,,,
+E,0.6190,0.6850,0.6810,0.6580,0.7170,,,,,,,,
+F,0.7820,0.7690,0.7700,0.6800,0.7230,,,,,,,,
+G,0.0860,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,46,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7290,0.7310,0.7260,0.8220,0.8820,,,,,,,,
+B,0.5580,0.5540,0.5440,0.5440,0.5440,,,,,,,,
+C,0.7440,0.7860,0.7690,0.7440,0.8060,,,,,,,,
+D,0.5240,0.5230,0.5250,0.5350,0.5490,,,,,,,,
+E,0.6200,0.6840,0.6800,0.6580,0.7180,,,,,,,,
+F,0.7830,0.7710,0.7700,0.6840,0.7240,,,,,,,,
+G,0.0870,0.0820,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,47,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,0.7280,0.7300,0.7260,0.8210,0.8850,,,,,,,,
+B,0.5580,0.5550,0.5470,0.5420,0.5450,,,,,,,,
+C,0.7410,0.7820,0.7700,0.7410,0.8100,,,,,,,,
+D,0.5230,0.5200,0.5280,0.5380,0.5490,,,,,,,,
+E,0.6250,0.6840,0.6840,0.6580,0.7170,,,,,,,,
+F,0.7830,0.7700,0.7680,0.6880,0.7260,,,,,,,,
+G,0.0870,0.0810,0.0840,0.0970,0.0890,,,,,,,,
+H,,,,,,,,,,,,,
+
+Plate information 
+Plate,Repeat,Barcode,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,Meas,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,="",36.85,37,23.1,21.9,Meas B,0,0,De=1st Ex=Btm Em=N/A,1,1/29/2025 9:17:58 AM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas B,0,42447,10,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+Results for Meas B -  (A)
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,,,,,,,,,,,,,
+B,,,,,,,,,,,,,
+C,,,,,,,,,,,,,
+D,,,,,,,,,,,,,
+E,,,,,,,,,,,,,
+F,,,,,,,,,,,,,
+G,,,,,,,,,,,,,
+H,,,,,,,,,,,,,
+
+
+Basic assay information 
+Assay ID: ,,,,11467
+Assay Started: ,,,,1/28/2025 4:31:13 PM
+Assay Finished: ,,,,1/29/2025 9:17:58 AM
+Assay Exported: ,,,,1/29/2025 9:26:06 AM
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100218
+Protocol Name: ,,,,mScarlet
+Serial#: ,,,,="23000566"
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,mScarlet
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,, 
+
+Plate type:
+Name of the plate type,,,,96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,UNK1 ,UNK2 ,UNK3 ,UNK4 ,UNK5 ,     ,     ,     ,     ,     ,     ,     
+B,UNK6 ,UNK7 ,UNK8 ,UNK9 ,UNK10,     ,     ,     ,     ,     ,     ,     
+C,UNK11,UNK12,UNK13,UNK14,UNK15,     ,     ,     ,     ,     ,     ,     
+D,UNK16,UNK17,UNK18,UNK19,UNK20,     ,     ,     ,     ,     ,     ,     
+E,UNK21,UNK22,UNK23,UNK24,UNK25,     ,     ,     ,     ,     ,     ,     
+F,UNK26,UNK27,UNK28,UNK29,UNK30,     ,     ,     ,     ,     ,     ,     
+G,UNK31,UNK32,UNK33,UNK34,UNK35,     ,     ,     ,     ,     ,     ,     
+H,     ,     ,     ,     ,     ,     ,     ,     ,     ,     ,     ,     
+
+ UNK - Unknown
+
+Calculations:
+No calculations.
+
+Auto export parameters:
+Export format,,,,Plate5
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,<DefaultDataFolder>\<Date>\<ProtocolName>_<AssayID>.csv
+Exported data,,,,MeasA:Result MeasB:Result
+
+Operations:
+Plate 1
+  Temperature control
+    Measurement chamber temperature,,,,37 °C
+    Condensation prevention for sealed plates,,,,Yes
+    Upper heater,,,,2 °C warmer than lower heater
+    Fast start,,,,Yes
+    Fast cooling,,,,No
+    Set temperature and continue immediately,,,,No
+    Set temperature adjustment off,,,,No
+    First assay/plate repeat affected,,,,1
+  Repeated operations
+    Measured,,,,By plate
+    Repeats,,,,48
+    Start each repeat after,,,,0 s
+    Measurement
+      Meas,,,,A
+      Tech,,,,Fluorescence
+      Repeated,,,,Range
+        First repeat,,,,1
+        Last repeat,,,,48
+        Step,,,,1
+    Measurement
+      Meas,,,,B
+      Tech,,,,Absorbance
+      Repeated,,,,Range
+        First repeat,,,,1
+        Last repeat,,,,48
+        Step,,,,1
+    Shake
+      Duration,,,,1200 s
+      Speed,,,,60
+      Diameter,,,,3 mm
+      Shake mode,,,,Linear
+      Plate location,,,,Inside
+      Repeated,,,,Range
+        First repeat,,,,1
+        Last repeat,,,,48
+        Step,,,,1
+
+Measurements:
+Meas ,,,,A
+Exc. filter,,,,N/A
+Using of excitation filter,,,,Top
+Excitation wavelength,,,,569 nm
+Emission wavelength,,,,594 nm
+Measurement height,,,,9.5 mm
+Number of flashes,,,,500
+Number of flashes integrated,,,,500
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Emission light,,,,100%
+Reference AD gain,,,,2
+Reference signal,,,,14844357
+Last edited,,,,1/28/2025 4:24:00 PM
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Meas ,,,,B
+Exc. filter,,,,N/A
+Excitation wavelength,,,,600 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,10
+Number of flashes integrated,,,,10
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Reference AD gain,,,,1
+Reference signal,,,,9916
+Last edited,,,,1/28/2025 4:23:48 PM
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,1/1/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,1/1/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,1/1/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000566
+Nickname,,,,EnSpire
+
+
+
+
+Notifications for plate 1  repeat 1:
+INFO: Assay aborted at plate 1  plate repeat 1 and well G05. There may be missing results
+
+
+
+Exported with EnSpire Workstation version 4.10.3005.1440
